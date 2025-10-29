@@ -1,0 +1,11 @@
+{
+  "name": "youtube-transcript-tool",
+  "version": "1.0.0",
+  "description": "Streamlit app to extract YouTube transcripts or use audio fallback.",
+  "main": "app.py",
+  "scripts": {
+    "start": "streamlit run app.py"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
